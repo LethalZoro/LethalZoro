@@ -9,13 +9,14 @@
 
 - 🤝 I’m looking for help with **fine-tuning open-source LLMs for production use**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LethalZoro](https://github.com/LethalZoro)
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/LethalZoro)
 
 - 💬 Ask me about **LLMs, LangChain, or building AI-first products**
 
-- 📫 How to reach me **muhammadmustafakhakwani@gmail.com**
+- 📫 How to reach me: **[muhammadmustafakhakwani@gmail.com](mailto:muhammadmustafakhakwani@gmail.com)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-mustafa-633216a6/](https://www.linkedin.com/in/muhammad-mustafa-633216a6/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/muhammad-mustafa-633216a6/)
+
 
 - ⚡ Fun fact **I survived Elden Ring bosses with fewer rage quits than I had debugging CSS.**
 
