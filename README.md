@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **building scalable AI solutions for businesses**
 
-- 🌱 I’m currently learning **React and Next.js**
-
 - 👯 I’m looking to collaborate on **AI-powered platforms**
 
 - 🤝 I’m looking for help with **fine-tuning open-source LLMs for production use**
@@ -18,7 +16,7 @@
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/muhammad-mustafa-633216a6/)
 
 
-- ⚡ Fun fact **I survived Elden Ring bosses with fewer rage quits than I had debugging CSS.**
+- ⚡ Fun fact **I survived Elden Ring bosses with fewer rage quits than I had deploying on Azure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
